@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-05 18:37:40,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2026-01-06 06:33:58,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
@@ -25,31 +25,31 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -68,23 +68,20 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 
 🪁动画频道,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
+七龙珠,https://live.ottiptv.cc/huya/11601966
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🎮游戏频道,#genre#
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-天龙八部,https://live.metshop.top/huya/23903123
