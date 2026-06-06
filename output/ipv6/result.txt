@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 19:34:55,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-06-07 07:14:26,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -9,23 +9,22 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304
 
 ☘️山东频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://cdn6.163189.xyz/163189/fct
 翡翠台,https://cdn6.163189.xyz/163189/fct
-明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+翡翠台,http://cdn6.163189.xyz/163189/fct
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
@@ -46,18 +45,13 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 
 🪁动画频道,#genre#
-七龙珠,https://live.metshop.top/huya/11601966
-七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
-猫和老鼠,https://live.metshop.top/huya/11352879
-猫和老鼠,https://live.ottiptv.cc/huya/11352879
-经典动漫,https://www.goodiptv.club/yy/22777075
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 
 🎵音乐频道,#genre#
 
@@ -66,6 +60,15 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://lbds.us.ci/26355861
+三国演义,https://live.ottiptv.cc/huya/11602081
+三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 水浒传,https://live.ottiptv.cc/yy/1353873252
+水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+封神榜,https://live.metshop.top/huya/29465849
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
+封神榜,https://live.ottiptv.cc/huya/29465849
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
