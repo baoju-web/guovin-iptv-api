@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-03 07:14:40,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
+2026-08-03 21:20:58,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 📺央视频道,#genre#
-CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&kl=www.9kds.com
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
@@ -15,6 +15,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
@@ -23,11 +24,12 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 
 🪁动画频道,#genre#
+火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 漫画解说,https://www.goodiptv.club/douyu/5907076
@@ -41,12 +43,12 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
-水浒传,https://live.ottiptv.cc/yy/1353873252
+三国演义,https://live.metshop.top/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
