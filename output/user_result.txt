@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-09 01:03:36,http://45.192.97.170:8880/play/442.m3u8
+2026-11-09 09:50:57,http://45.192.97.170:8880/play/442.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://45.192.97.170:8880/play/442.m3u8
@@ -16,29 +16,28 @@ CETV-3,http://45.192.97.170:8880/play/2723.m3u8
 风云音乐,http://45.192.97.170:8880/play/433.m3u8
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=c4f2ed43508ea460b381e85ffd11c59f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=15732e48a35953bb064f0ffb4197035c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+女性时尚,https://live.264788.xyz/channel/nvxingshishang?streamid=c4f2ed43508ea460b381e85ffd11c59f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 女性时尚,http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 高尔夫网球,http://204315.xyz:20204/rtp/233.18.204.181:5140
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-风云足球,http://192.151.150.154/live/fyzq.m3u8
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
+风云足球,http://192.151.150.154/live/fyzq.m3u8
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
-广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
-浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
+广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 浙江卫视,http://45.192.97.170:8880/play/542.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://45.192.97.170:8880/play/476.m3u8
+浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8
 湖南卫视,http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/509.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://45.192.97.170:8880/play/484.m3u8
@@ -49,17 +48,15 @@ CETV-3,http://45.192.97.170:8880/play/2723.m3u8
 江苏卫视,http://45.192.97.170:8880/play/487.m3u8
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
 江苏卫视,http://45.192.97.170:8880/play/525.m3u8
-江苏卫视,https://stream2.jlntv.cn/sytv/sd/live.m3u8
-江西卫视,http://45.192.97.170:8880/play/526.m3u8
 江西卫视,http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8
+江西卫视,http://45.192.97.170:8880/play/526.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 青海卫视,http://45.192.97.170:8880/play/531.m3u8
-陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8
+陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8
 深圳卫视,http://45.192.97.170:8880/play/537.m3u8
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 天津卫视,http://45.192.97.170:8880/play/538.m3u8
-西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://45.192.97.170:8880/play/541.m3u8
 
 ☘️山东频道,#genre#
@@ -82,11 +79,11 @@ CETV-3,http://45.192.97.170:8880/play/2723.m3u8
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 菏泽一套新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
@@ -95,13 +92,7 @@ CETV-3,http://45.192.97.170:8880/play/2723.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-明珠台,http://r.jdshipin.com/jUx8K
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://45.192.97.170:8880/play/1217.m3u8
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-明珠台,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4904
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
@@ -118,9 +109,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV动作电影,http://45.192.97.170:8880/play/2200.m3u8
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 靖天映画,http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
@@ -149,18 +139,19 @@ IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+睛彩篮球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8104&tk=b53028476470
 睛彩广场舞,http://45.192.97.170:8880/play/3261.m3u8
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 快乐垂钓,http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
 快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4961&tk=b53028476470
+快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=20cc21&tk=6949f8ce7202
 快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.254.81/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.212.72/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.247.80/PLTV/88888888/224/3221226834/59781974.smil
 快乐垂钓,rtsp://115.153.230.145/PLTV/88888888/224/3221226834/59781974.smil
-快乐垂钓,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226834/59781974.smil
-快乐垂钓,rtsp://115.153.233.154/PLTV/88888888/224/3221226834/59781974.smil
 JJ斗地主,http://1.14.124.206:35455/huya/30814432
 
 🪁动画频道,#genre#
@@ -214,19 +205,17 @@ JJ斗地主,http://1.14.124.206:35455/huya/30814432
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
-鹿鼎记,https://live.ottiptv.cc/yy/28265277
 鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,http://173.208.234.146/live/vlxyj.m3u8
-三国演义,https://live.ottiptv.cc/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,https://live.ottiptv.cc/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
 水浒传,https://live.ottiptv.cc/yy/1353873252
-水浒传,http://222.186.39.21:35466/huya/26355860
-水浒传,http://8.155.43.98:35455/huya/26355860
 水浒传,http://173.208.234.146/live/vlshz.m3u8
+水浒传,http://8.155.43.98:35455/huya/26355860
+水浒传,http://222.186.39.21:35466/huya/26355860
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.ottiptv.cc/huya/29465849
 闯关东,http://173.208.234.146/live/lbchuangguandong.m3u8
 上海滩,http://luobo.bkpcp.top/yy/1382745184
