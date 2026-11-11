@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-11 10:10:58,http://r.jdshipin.com/ZQ4kN
+2026-11-12 02:13:29,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 
 📺央视频道,#genre#
 
@@ -10,9 +10,9 @@
 ☘️山东频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -41,11 +41,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
-三国演义,https://live.ottiptv.cc/huya/11602081
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 三国演义,https://live.metshop.top/huya/11602081
-水浒传,https://live.ottiptv.cc/yy/1353873252
+三国演义,https://live.ottiptv.cc/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
-新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,https://live.ottiptv.cc/huya/29465849
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
