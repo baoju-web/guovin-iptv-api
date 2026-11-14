@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-14 02:01:38,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+2026-11-14 10:30:06,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 
 📺央视频道,#genre#
 
@@ -43,8 +43,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-三国演义,https://live.ottiptv.cc/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,https://live.ottiptv.cc/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
 水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
